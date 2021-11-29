@@ -50,7 +50,7 @@
     "@docusaurus/utils-validation": "2.0.0-alpha.66",
     "@endiliey/static-site-generator-webpack-plugin": "^4.0.0",
     "joi": "^17.2.1",
-    "@svgr/webpack": "^5.4.0",
+    "@svgr/webpack": "^6.0.0",
     "babel-loader": "^8.1.0",
     "babel-plugin-dynamic-import-node": "^2.3.0",
     "boxen": "^4.2.0",
