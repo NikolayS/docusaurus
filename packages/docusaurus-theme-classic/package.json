@@ -27,7 +27,7 @@
     "@docusaurus/types": "2.0.0-alpha.66",
     "@docusaurus/utils-validation": "2.0.0-alpha.66",
     "joi": "^17.2.1",
-    "@mdx-js/mdx": "^1.5.8",
+    "@mdx-js/mdx": "^2.0.0",
     "@mdx-js/react": "^1.5.8",
     "@types/react-toggle": "^4.0.2",
     "clsx": "^1.1.1",
