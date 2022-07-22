@@ -51,7 +51,7 @@
     "github-slugger": "^1.2.1",
     "glob": "^7.1.6",
     "highlight.js": "^9.16.2",
-    "imagemin": "^6.0.0",
+    "imagemin": "^8.0.1",
     "imagemin-gifsicle": "^6.0.1",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-optipng": "^6.0.0",
