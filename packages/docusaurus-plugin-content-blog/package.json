@@ -28,11 +28,11 @@
     "feed": "^4.1.0",
     "fs-extra": "^8.1.0",
     "globby": "^10.0.1",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^2.0.0",
     "lodash": "^4.5.2",
     "reading-time": "^1.2.0",
     "remark-admonitions": "^1.2.1",
-    "webpack": "^4.44.1"
+    "webpack": "^5.0.0"
   },
   "peerDependencies": {
     "react": "^16.8.4",
