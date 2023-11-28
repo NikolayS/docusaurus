@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@docsearch/react": "^1.0.0-alpha.27",
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "3.0.0",
     "@docusaurus/utils": "2.0.0-alpha.66",
     "joi": "^17.2.1",
     "algoliasearch": "^4.0.0",
