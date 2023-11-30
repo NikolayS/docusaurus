@@ -24,8 +24,8 @@
     "picomatch": "^2.1.1"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
-    "@docusaurus/mdx-loader": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.0",
+    "@docusaurus/mdx-loader": "2.0.0",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@docusaurus/utils": "2.0.0-alpha.66",
     "@docusaurus/utils-validation": "2.0.0-alpha.66",
@@ -33,7 +33,7 @@
     "chalk": "^3.0.0",
     "execa": "^3.4.0",
     "fs-extra": "^8.1.0",
-    "globby": "^10.0.1",
+    "globby": "^11.0.0",
     "import-fresh": "^3.2.1",
     "loader-utils": "^1.2.3",
     "lodash": "^4.17.19",
@@ -45,7 +45,7 @@
     "remark-admonitions": "^1.2.1",
     "shelljs": "^0.8.4",
     "utility-types": "^3.10.0",
-    "webpack": "^4.44.1"
+    "webpack": "^5.1.1"
   },
   "peerDependencies": {
     "react": "^16.8.4",
