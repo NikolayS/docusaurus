@@ -105,7 +105,7 @@
     "wait-file": "^1.0.5",
     "webpack": "^4.44.1",
     "webpack-bundle-analyzer": "^3.6.1",
-    "webpack-dev-server": "^3.11.0",
+    "webpack-dev-server": "^4.8.0",
     "webpack-merge": "^4.2.2",
     "webpackbar": "^4.0.0"
   },
