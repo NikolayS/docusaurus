@@ -20,7 +20,7 @@
     "fs-extra": "^9.0.0"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.1",
     "@docusaurus/lqip-loader": "2.0.0-alpha.66",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@endiliey/react-ideal-image": "^0.0.11",
