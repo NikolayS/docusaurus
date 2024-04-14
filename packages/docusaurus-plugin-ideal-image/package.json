@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.66",
-    "@docusaurus/lqip-loader": "2.0.0-alpha.66",
+    "@docusaurus/lqip-loader": "2.0.1",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@endiliey/react-ideal-image": "^0.0.11",
     "@endiliey/responsive-loader": "^1.3.2",
