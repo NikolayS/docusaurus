@@ -24,8 +24,8 @@
     "picomatch": "^2.1.1"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
-    "@docusaurus/mdx-loader": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.1",
+    "@docusaurus/mdx-loader": "2.0.1",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@docusaurus/utils": "2.0.0-alpha.66",
     "@docusaurus/utils-validation": "2.0.0-alpha.66",
@@ -45,7 +45,7 @@
     "remark-admonitions": "^1.2.1",
     "shelljs": "^0.8.4",
     "utility-types": "^3.10.0",
-    "webpack": "^4.44.1"
+    "webpack": "^5.0.0"
   },
   "peerDependencies": {
     "react": "^16.8.4",
