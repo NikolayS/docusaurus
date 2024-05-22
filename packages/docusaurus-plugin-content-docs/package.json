@@ -24,7 +24,7 @@
     "picomatch": "^2.1.1"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.1",
     "@docusaurus/mdx-loader": "2.0.0-alpha.66",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@docusaurus/utils": "2.0.0-alpha.66",
