@@ -13,12 +13,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.1",
     "@philpl/buble": "^0.19.7",
     "clsx": "^1.1.1",
     "parse-numeric-range": "^0.0.2",
     "prism-react-renderer": "^1.1.0",
-    "react-live": "^2.2.1"
+    "react-live": "^3.0.0"
   },
   "peerDependencies": {
     "react": "^16.8.4",
