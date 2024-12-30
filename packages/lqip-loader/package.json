@@ -15,7 +15,7 @@
   "dependencies": {
     "loader-utils": "^1.2.3",
     "lodash.sortby": "^4.7.0",
-    "node-vibrant": "^3.1.5"
+    "node-vibrant": "^4.0.0"
   },
   "peerDependencies": {
     "file-loader": "*",
