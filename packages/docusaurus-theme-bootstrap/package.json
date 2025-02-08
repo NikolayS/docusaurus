@@ -17,7 +17,7 @@
     "@docusaurus/core": "2.0.0-alpha.66",
     "@docusaurus/plugin-content-blog": "2.0.0-alpha.66",
     "@docusaurus/plugin-content-docs": "2.0.0-alpha.66",
-    "@docusaurus/plugin-content-pages": "2.0.0-alpha.66",
+    "@docusaurus/plugin-content-pages": "2.0.1",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@mdx-js/react": "^1.5.8",
     "bootstrap": "^4.4.1",
