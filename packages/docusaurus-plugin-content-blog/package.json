@@ -32,7 +32,7 @@
     "lodash": "^4.5.2",
     "reading-time": "^1.2.0",
     "remark-admonitions": "^1.2.1",
-    "webpack": "^4.44.1"
+    "webpack": "^5.98.0"
   },
   "peerDependencies": {
     "react": "^16.8.4",
