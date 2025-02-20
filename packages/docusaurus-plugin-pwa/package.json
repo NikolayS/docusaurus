@@ -22,7 +22,7 @@
     "clsx": "^1.1.1",
     "core-js": "^2.6.5",
     "terser-webpack-plugin": "^4.1.0",
-    "webpack": "^4.44.1",
+    "webpack": "^5.98.0",
     "webpack-merge": "^4.2.2",
     "workbox-build": "^5.1.4",
     "workbox-precaching": "^5.1.4",
