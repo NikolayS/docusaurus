@@ -43,7 +43,7 @@
     "lodash.pickby": "^4.6.0",
     "lodash.sortby": "^4.6.0",
     "remark-admonitions": "^1.2.1",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.9.0",
     "utility-types": "^3.10.0",
     "webpack": "^4.44.1"
   },
