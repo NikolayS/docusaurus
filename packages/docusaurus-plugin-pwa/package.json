@@ -16,7 +16,7 @@
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.1",
     "@babel/plugin-proposal-optional-chaining": "^7.10.3",
     "@babel/preset-env": "^7.9.0",
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "3.8.0",
     "joi": "^17.2.1",
     "babel-loader": "^8.1.0",
     "clsx": "^1.1.1",
