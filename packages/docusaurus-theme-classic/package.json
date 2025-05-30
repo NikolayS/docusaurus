@@ -20,10 +20,10 @@
     "prettier": "prettier --config ../../.prettierrc --write \"**/*.{js,ts}\""
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "3.8.0",
     "@docusaurus/plugin-content-blog": "2.0.0-alpha.66",
     "@docusaurus/plugin-content-docs": "2.0.0-alpha.66",
-    "@docusaurus/plugin-content-pages": "2.0.0-alpha.66",
+    "@docusaurus/plugin-content-pages": "3.8.0",
     "@docusaurus/types": "2.0.0-alpha.66",
     "@docusaurus/utils-validation": "2.0.0-alpha.66",
     "joi": "^17.2.1",
