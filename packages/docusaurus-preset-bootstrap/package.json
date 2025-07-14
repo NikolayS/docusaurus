@@ -13,10 +13,10 @@
     "directory": "packages/docusaurus-preset-bootstrap"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
+    "@docusaurus/core": "2.0.1",
     "@docusaurus/plugin-content-blog": "2.0.0-alpha.66",
     "@docusaurus/plugin-content-docs": "2.0.0-alpha.66",
-    "@docusaurus/plugin-content-pages": "2.0.0-alpha.66",
+    "@docusaurus/plugin-content-pages": "2.0.1",
     "@docusaurus/theme-bootstrap": "2.0.0-alpha.66"
   },
   "peerDependencies": {
